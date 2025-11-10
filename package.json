@@ -1,5 +1,5 @@
 {
-  "name": "ai-powered-job-prep",
+  "name": "intellimock-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -30,7 +30,7 @@
     "@radix-ui/react-slot": "^1.2.3",
     "@t3-oss/env-nextjs": "^0.13.8",
     "@tailwindcss/typography": "^0.5.16",
-    "ai": "^4.3.19",
+    "ai": "^5.0.90",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "drizzle-orm": "^0.44.3",
@@ -55,7 +55,7 @@
     "@types/pg": "^8.15.4",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "drizzle-kit": "^0.31.4",
+    "drizzle-kit": "^0.18.1",
     "eslint": "^9",
     "eslint-config-next": "15.4.2-canary.15",
     "tailwindcss": "^4",
